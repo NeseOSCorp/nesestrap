@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official places to download Bloxstrap are this GitHub repository and [www.nesestrap.rf.gd](https://www.nesestrap.rf.gd). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
@@ -20,21 +20,21 @@
 
 ----
 
-Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
+NeseStrap is a fork Bloxtrap of third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
 
-Bloxstrap is only supported for PCs running Windows.
+NeseStrap is only supported for PCs running Windows.
 
 ## Frequently Asked Questions
 
 **Q: Is this malware?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com).
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [www.nesestraps.rf.gd](https://www.nesestraps.rf.gd).
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
+**A:** No, it shouldn't. NeseStrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
 
 **Q: Why was multi-instance launching removed?**
 
@@ -63,7 +63,7 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 
 ## Code
 
-Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+NeseStrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
 
 
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
