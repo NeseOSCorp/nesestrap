@@ -83,3 +83,7 @@ NeseStrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 [crowdin-project]: https://crowdin.com/project/bloxstrap
 [discord-invite]:  https://discord.gg/nKjV3mGq6R
 [tenor-gif]:       https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif
+
+## Does NeseStrap supports Nese 7?
+
+Yes. NeseStrap supports Nese 7 and also receives only security updates due to similar to Windows 7 but, feature updates might possible or not possible. So, NeseStrap will also receive security updates as well.
