@@ -30,7 +30,7 @@ NeseStrap is only supported for PCs running Windows.
 
 **Q: Is this malware?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [www.nesestraps.rf.gd](https://www.nesestraps.rf.gd).
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [www.nesestrap.rf.gd](https://www.nesestrap.rf.gd).
 
 **Q: Can using this get me banned?**
 
