@@ -32,6 +32,10 @@ NeseStrap is only supported for PCs running Windows.
 
 **A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [www.nesestrap.rf.gd](https://www.nesestrap.rf.gd).
 
+**Q: Does NeseStrap supports Nese 7?**
+
+**A** Yes. NeseStrap supports Nese 7 and also receives only security updates due to similar to Windows 7 but, feature updates might possible or not possible. So, NeseStrap will also receive security updates as well.
+
 **Q: Can using this get me banned?**
 
 **A:** No, it shouldn't. NeseStrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
@@ -83,7 +87,3 @@ NeseStrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 [crowdin-project]: https://crowdin.com/project/bloxstrap
 [discord-invite]:  https://discord.gg/nKjV3mGq6R
 [tenor-gif]:       https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif
-
-## Does NeseStrap supports Nese 7?
-
-Yes. NeseStrap supports Nese 7 and also receives only security updates due to similar to Windows 7 but, feature updates might possible or not possible. So, NeseStrap will also receive security updates as well.
